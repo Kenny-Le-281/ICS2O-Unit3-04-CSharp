@@ -27,7 +27,7 @@ class Program
         celsius = (fahrenheit - 32) * 5.0 / 9.0;
 
         // output
-        Console.WriteLine(fahrenheit + "℉ in celsius is equal to: " + celsius.ToString("0.00") + "℃.");
+        Console.WriteLine(fahrenheit + " ℉ in celsius is equal to: " + celsius.ToString("0.00") + " ℃.");
 
         Console.WriteLine("\nDone.");
     }
